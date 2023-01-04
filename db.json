@@ -1,0 +1,14 @@
+{
+  "quotes": [
+    {
+      "author": "james",
+      "quote": "what goes up must come down",
+      "id": 2
+    },
+    {
+      "author": "mary",
+      "quote": "work hard play hard",
+      "id": 3
+    }
+  ]
+}
